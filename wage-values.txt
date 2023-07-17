@@ -1,0 +1,7 @@
+employeeCategory = "support-worker"
+employeeType = "full-time"
+hoursWorked = 150
+holidayHour = 5
+sleepTimes = 4
+extraSleepTimes = 5
+wakingNightTimes = 5
